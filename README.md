@@ -1,7 +1,7 @@
-# chill
+# My ReadME Generator
 
   ## Project Description
-  chilll
+  To build up on my skills with node!
   # Table of Contents
   * [Installation](#Installation)
   * [Visuals](#Visuals)
@@ -14,29 +14,29 @@
   * [Project Status](#Status)
 
   ## Visual of Project
-  chill
+  not applicable
 
   ## Usage Information
-  chill
+  inquirer as well a computer and patience!
 
   ## Test Commands
-  chill
+  not applicable
 
   ## Contributions to Project
-  chill
+  Myself
 
   ## Future Developments
-  chill
+  I will someday want to flip this to go full front end
 
   ## Contact Information
   undefined
 
   ## Username
-  chill
+  yomiodusi
 
   ## Your Email Address
-  chill
+  yomiodusi98@gmail.com
 
   ## Status of Project
-  chill
+  80 % complete - i have not yet added a license. Will do that for better grade!
 
