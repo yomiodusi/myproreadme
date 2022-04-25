@@ -1,0 +1,26 @@
+{
+  "name": "myproreadme",
+  "version": "1.0.0",
+  "description": "My Read Me Generator",
+  "main": "index.js",
+  "scripts": {
+    "test": "git@github.com:yomiodusi/myproreadme.git"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yomiodusi/myproreadme.git"
+  },
+  "author": "Yomi Odusi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yomiodusi/myproreadme/issues"
+  },
+  "homepage": "https://github.com/yomiodusi/myproreadme#readme",
+  "dependencies": {
+    "inquirer": "^8.2.2",
+    "uuid": "^8.3.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
