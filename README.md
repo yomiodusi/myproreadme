@@ -1,7 +1,7 @@
-# mothing
+# Professional Read Me Generator
 
   ## Project Description
-  othignt
+  Create user friendly readme generator
   # Table of Contents
   * [Installation](#Installation)
   * [Visuals](#Visuals)
@@ -14,19 +14,19 @@
   * [Project Status](#Status)
 
   ## Visual of Project
-  ttt
+  N/A
 
   ## Usage Information
-  gg
+  
 
   ## Test Commands
-  ff
+  Its run in the terminal by typing node index
 
   ## Contributions to Project
-  ff
+  Myself
 
   ## Future Developments
-  ff
+  Will include licence and maybe let user save history
 
   ## Contact Information
   undefined
@@ -35,8 +35,11 @@
   https://github.com/yomiodusi
   
   ## Your Email Address
-  dd
+  yomiodusi98@gmail.com
+
+  ## Video of Generator Functionality
+  https://www.youtube.com/watch?v=_Oy1E-c4WX8
 
   ## Status of Project
-  dd
+  90% complete
 
