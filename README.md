@@ -1,7 +1,7 @@
-# My ReadME Generator
+# mothing
 
   ## Project Description
-  To build up on my skills with node!
+  othignt
   # Table of Contents
   * [Installation](#Installation)
   * [Visuals](#Visuals)
@@ -14,29 +14,29 @@
   * [Project Status](#Status)
 
   ## Visual of Project
-  not applicable
+  ttt
 
   ## Usage Information
-  inquirer as well a computer and patience!
+  gg
 
   ## Test Commands
-  not applicable
+  ff
 
   ## Contributions to Project
-  Myself
+  ff
 
   ## Future Developments
-  I will someday want to flip this to go full front end
+  ff
 
   ## Contact Information
   undefined
 
   ## Username
-  yomiodusi
-
+  https://github.com/yomiodusi
+  
   ## Your Email Address
-  yomiodusi98@gmail.com
+  dd
 
   ## Status of Project
-  80 % complete - i have not yet added a license. Will do that for better grade!
+  dd
 

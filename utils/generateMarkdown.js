@@ -35,8 +35,8 @@ function generateMarkdown(data) {
   ${data.Questions}
 
   ## Username
-  ${data.Username}
-
+  https://github.com/${data.Username}
+  
   ## Your Email Address
   ${data.Email}
 
